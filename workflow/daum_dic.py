@@ -63,9 +63,9 @@ def main(wf):
 			stxt = txt.split('|')
 			wf.add_item(
 				title = '%s  %s' % (stxt[1], stxt[2]) ,
-				subtitle = 'Searching Daum%s for \'%s\'' % (dic_req, txt), 
-				autocomplete=txt, 
-				arg=txt,
+				subtitle = 'Searching Daum%s for \'%s\'' % (dic_req, stxt[1]), 
+				autocomplete=stxt[1], 
+				arg=stxt[1],
 				valid=True);
 			
 	wf.send_feedback()
