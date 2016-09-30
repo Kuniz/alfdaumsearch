@@ -17,6 +17,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>3A478D6C-5D65-4057-AC9D-45ECD7FAD8FF</key>
@@ -28,6 +30,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>43002203-71F9-4EF9-BD2D-2E66B75E0CE4</key>
@@ -39,6 +43,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>6A3B17C0-3738-4E51-8284-7342821644C7</key>
@@ -50,6 +56,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>6A932DFA-12A6-4540-81B0-AC5D8F22F5CF</key>
@@ -61,6 +69,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>9F0D22FA-7D4C-4454-84AD-FDF086775BE5</key>
@@ -72,6 +82,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
@@ -88,16 +100,32 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
 				<string>ds</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
 				<string>python daum_search.py "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Searching Daum for {query}</string>
 				<key>type</key>
@@ -110,13 +138,15 @@
 			<key>uid</key>
 			<string>6A3B17C0-3738-4E51-8284-7342821644C7</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>plusspaces</key>
-				<false/>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
 				<key>url</key>
 				<string>http://search.daum.net/search?q={query}</string>
 				<key>utf8</key>
@@ -127,15 +157,17 @@
 			<key>uid</key>
 			<string>BA17A710-3A5F-4A89-A967-01A524712257</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>plusspaces</key>
-				<false/>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q=r&amp;dic=en</string>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=en</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -144,21 +176,37 @@
 			<key>uid</key>
 			<string>65F2147A-85B6-4934-BC20-54DF568827B4</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
 				<string>de</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
 				<string>python daum_dic.py "eng" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Searching Engdic for {query}</string>
 				<key>type</key>
@@ -171,21 +219,37 @@
 			<key>uid</key>
 			<string>095CDEC8-4FA0-45DD-BF37-7645C9AB11B6</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
 				<string>dj</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
 				<string>python daum_dic.py "jpn" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Searching Jpndic for {query}</string>
 				<key>type</key>
@@ -198,15 +262,17 @@
 			<key>uid</key>
 			<string>9F0D22FA-7D4C-4454-84AD-FDF086775BE5</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>plusspaces</key>
-				<false/>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q=r&amp;dic=jp</string>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=jp</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -215,15 +281,17 @@
 			<key>uid</key>
 			<string>8D6A4A28-B13F-48AB-BCF0-116867E71D07</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>plusspaces</key>
-				<false/>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q=r&amp;dic=kor</string>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=kor</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -232,21 +300,37 @@
 			<key>uid</key>
 			<string>6ADB0A5E-67AB-4BE3-B41D-BEDB3A092FA8</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
 				<string>dk</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
 				<string>python daum_dic.py "kor" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Searching Kordic for {query}</string>
 				<key>type</key>
@@ -259,15 +343,17 @@
 			<key>uid</key>
 			<string>6A932DFA-12A6-4540-81B0-AC5D8F22F5CF</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>plusspaces</key>
-				<false/>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q=r&amp;dic=ch</string>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=ch</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -276,21 +362,37 @@
 			<key>uid</key>
 			<string>3AC365E3-AA3B-43A2-82F9-BCBE5ED7FDAB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
 				<string>dc</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
 				<string>python daum_dic.py "chn" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Searching Chinese dic for {query}</string>
 				<key>type</key>
@@ -303,15 +405,17 @@
 			<key>uid</key>
 			<string>3A478D6C-5D65-4057-AC9D-45ECD7FAD8FF</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>plusspaces</key>
-				<false/>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q=r&amp;dic=hanja</string>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=hanja</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -320,21 +424,37 @@
 			<key>uid</key>
 			<string>3A223755-D2C0-4EC3-95C6-2F790E5A332E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
 				<string>dh</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
 				<string>python daum_dic.py "han" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>Searching Hanja dic for {query}</string>
 				<key>type</key>
@@ -347,74 +467,100 @@
 			<key>uid</key>
 			<string>43002203-71F9-4EF9-BD2D-2E66B75E0CE4</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Autocomplete Workflow for Daum Services</string>
 	<key>uidata</key>
 	<dict>
 		<key>095CDEC8-4FA0-45DD-BF37-7645C9AB11B6</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>130</real>
 		</dict>
 		<key>3A223755-D2C0-4EC3-95C6-2F790E5A332E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>610</real>
 		</dict>
 		<key>3A478D6C-5D65-4057-AC9D-45ECD7FAD8FF</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>490</real>
 		</dict>
 		<key>3AC365E3-AA3B-43A2-82F9-BCBE5ED7FDAB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>490</real>
 		</dict>
 		<key>43002203-71F9-4EF9-BD2D-2E66B75E0CE4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>610</real>
 		</dict>
 		<key>65F2147A-85B6-4934-BC20-54DF568827B4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>130</real>
 		</dict>
 		<key>6A3B17C0-3738-4E51-8284-7342821644C7</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>6A932DFA-12A6-4540-81B0-AC5D8F22F5CF</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>370</real>
 		</dict>
 		<key>6ADB0A5E-67AB-4BE3-B41D-BEDB3A092FA8</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>370</real>
 		</dict>
 		<key>8D6A4A28-B13F-48AB-BCF0-116867E71D07</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>250</real>
 		</dict>
 		<key>9F0D22FA-7D4C-4454-84AD-FDF086775BE5</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>250</real>
 		</dict>
 		<key>BA17A710-3A5F-4A89-A967-01A524712257</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 	</dict>
+	<key>version</key>
+	<string>0.0.3</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
