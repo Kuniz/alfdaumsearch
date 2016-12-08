@@ -73,6 +73,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>7927FD2F-C10C-4F9D-8242-BFE34BF62E0D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B06D0E0C-AD6A-4886-95F3-601A27087F41</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>9F0D22FA-7D4C-4454-84AD-FDF086775BE5</key>
 		<array>
 			<dict>
@@ -469,6 +482,68 @@
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>di</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "id" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching Indonesian dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>7927FD2F-C10C-4F9D-8242-BFE34BF62E0D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=id</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>B06D0E0C-AD6A-4886-95F3-601A27087F41</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>Autocomplete Workflow for Daum Services</string>
@@ -537,6 +612,13 @@
 			<key>ypos</key>
 			<real>370</real>
 		</dict>
+		<key>7927FD2F-C10C-4F9D-8242-BFE34BF62E0D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>730</integer>
+		</dict>
 		<key>8D6A4A28-B13F-48AB-BCF0-116867E71D07</key>
 		<dict>
 			<key>xpos</key>
@@ -551,6 +633,13 @@
 			<key>ypos</key>
 			<real>250</real>
 		</dict>
+		<key>B06D0E0C-AD6A-4886-95F3-601A27087F41</key>
+		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
+			<key>ypos</key>
+			<integer>730</integer>
+		</dict>
 		<key>BA17A710-3A5F-4A89-A967-01A524712257</key>
 		<dict>
 			<key>xpos</key>
@@ -560,7 +649,7 @@
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>0.0.3</string>
+	<string>0.0.4</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
