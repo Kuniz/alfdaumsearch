@@ -24,7 +24,7 @@ from workflow import web, Workflow
 
 
 def get_data(word):
-	url = 'http://sug.search.daum.net/total_search_pssuggest'
+	url = 'https://suggest.search.daum.net/sushi/pc/get'
 
 	params = dict(mod='json',
 		code='utf_in_out',
@@ -53,7 +53,7 @@ def main(wf):
 
 	res_json = wf.cached_data('dsearch_%s' % args, wrapper , max_age=30)
 
-	for txt in res_json['items']:
+	for txt in res_json['subkeys']:
 		if len(txt) > 0 :
 			wf.add_item(
 				title = 'Searching Daum for \'%s\'' % txt, 
