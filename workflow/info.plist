@@ -8,11 +8,50 @@
 	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
+		<key>00147648-6F33-4D90-A49C-9BDF240A1203</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>761FB074-2CF0-48D1-8A86-DABB4179566A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>01635823-AD06-4B6E-9246-928557F6530A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>98B5FE3C-57F5-47A5-9D46-9F48B516578E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>095CDEC8-4FA0-45DD-BF37-7645C9AB11B6</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>65F2147A-85B6-4934-BC20-54DF568827B4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>161A7C87-A094-42D6-B876-62029A1D2161</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A5DC93FF-9CFD-40C7-8BDD-2D723815540C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -34,11 +73,102 @@
 				<false/>
 			</dict>
 		</array>
+		<key>3C263A56-1162-4067-9A7A-58B17FD6CF0A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>33E09F9E-4407-4593-8817-96D9F8BCF20A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>43002203-71F9-4EF9-BD2D-2E66B75E0CE4</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>3A223755-D2C0-4EC3-95C6-2F790E5A332E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>446D4A73-385E-420D-B83D-9F1159F860AE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1BFE9363-AEF0-4B40-8326-136DA42A3846</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>51BBEFC7-8F1F-452D-91E0-933262473552</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3A3818A-6CC2-4110-9DD5-5F10416C70D7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>55976A0F-526E-4A04-B6A1-3AC87BA5075C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CF74DDD3-99B4-48C8-921F-33A891E2228A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5F903FE4-EFEB-4D8B-86F4-1C82FF696049</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8A761DD7-C76B-45F3-8669-868F958BA30E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5F9E4EBF-4849-4CA9-A51A-10ED7BF832A8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>46D765B8-7E4B-424D-A8CD-1E98E14B2F26</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>685CC6CD-C8ED-4F6A-AC02-52DC17D3F008</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7DCAEEF0-4EB9-4F0F-924B-92BC13D07E84</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -86,11 +216,102 @@
 				<false/>
 			</dict>
 		</array>
+		<key>7A2BA321-31E2-4FBD-A4B5-4FD2E20AF640</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>43580A6A-B7F7-43A1-B78D-A8BB367AC1AE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7BBBE8D8-3D0C-44A0-B057-86C819938F0A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EBF27845-35C0-4BB6-915E-DC06CA90DA2F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7D29196F-5769-4C50-902C-15F7A4B12CAB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FB5F152B-6423-45C7-BDD2-6167AA86804D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7FBE0600-4057-422D-8741-1F18EC2D9F81</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AEBD599E-FAC5-4BE1-81DC-B018F8E00461</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>9F0D22FA-7D4C-4454-84AD-FDF086775BE5</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>8D6A4A28-B13F-48AB-BCF0-116867E71D07</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D95E7936-39C7-4E42-9CF3-F0BD54FE576E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E89931D1-2973-4280-A21C-1DFB6FC56325</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ED479795-FDA5-4650-82B0-56C1797E2B63</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CA81F289-978A-47C6-B816-5CDC647A350F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F53D60F8-2B5E-4FF5-A1E0-175FAF7FFEA3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>21642F59-FA22-4B6A-812A-18215B265119</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -110,6 +331,142 @@
 	<string>Daum Search</string>
 	<key>objects</key>
 	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://search.daum.net/search?q={query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>BA17A710-3A5F-4A89-A967-01A524712257</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dv</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "vi" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching Vietnamese dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>5F9E4EBF-4849-4CA9-A51A-10ED7BF832A8</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dpt</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "pt" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching portuguese dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>3C263A56-1162-4067-9A7A-58B17FD6CF0A</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=fa</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>EBF27845-35C0-4BB6-915E-DC06CA90DA2F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -167,14 +524,169 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://search.daum.net/search?q={query}</string>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=pt</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
-			<string>BA17A710-3A5F-4A89-A967-01A524712257</string>
+			<string>33E09F9E-4407-4593-8817-96D9F8BCF20A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dfa</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "fa" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching persian dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>7BBBE8D8-3D0C-44A0-B057-86C819938F0A</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=vi</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>46D765B8-7E4B-424D-A8CD-1E98E14B2F26</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dsw</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "sw" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching swahili dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>01635823-AD06-4B6E-9246-928557F6530A</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=en</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>65F2147A-85B6-4934-BC20-54DF568827B4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=it</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>E3A3818A-6CC2-4110-9DD5-5F10416C70D7</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -235,16 +747,133 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=en</string>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=cs</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
-			<string>65F2147A-85B6-4934-BC20-54DF568827B4</string>
+			<string>761FB074-2CF0-48D1-8A86-DABB4179566A</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=sw</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>98B5FE3C-57F5-47A5-9D46-9F48B516578E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dit</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "it" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching Italian dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>51BBEFC7-8F1F-452D-91E0-933262473552</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dcs</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "cs" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching czech dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>00147648-6F33-4D90-A49C-9BDF240A1203</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -298,6 +927,142 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dro</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "ro" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching rumanian dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>7D29196F-5769-4C50-902C-15F7A4B12CAB</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=fr</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>7DCAEEF0-4EB9-4F0F-924B-92BC13D07E84</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dhu</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "hu" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching hungarian dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>685CC6CD-C8ED-4F6A-AC02-52DC17D3F008</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=ru</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>CA81F289-978A-47C6-B816-5CDC647A350F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>spaces</key>
@@ -322,6 +1087,142 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=ro</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>FB5F152B-6423-45C7-BDD2-6167AA86804D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dru</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "ru" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching russian dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>ED479795-FDA5-4650-82B0-56C1797E2B63</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=ar</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>1BFE9363-AEF0-4B40-8326-136DA42A3846</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dar</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "ar" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching arabic dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>446D4A73-385E-420D-B83D-9F1159F860AE</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
 				<string>http://dic.daum.net/search.do?q={query}&amp;dic=kor</string>
 				<key>utf8</key>
 				<true/>
@@ -330,6 +1231,74 @@
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>6ADB0A5E-67AB-4BE3-B41D-BEDB3A092FA8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>df</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "fr" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching franch dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>161A7C87-A094-42D6-B876-62029A1D2161</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=fr</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>A5DC93FF-9CFD-40C7-8BDD-2D723815540C</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -404,6 +1373,25 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=sv</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>AEBD599E-FAC5-4BE1-81DC-B018F8E00461</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
@@ -447,6 +1435,240 @@
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
 			<string>3A478D6C-5D65-4057-AC9D-45ECD7FAD8FF</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dtr</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "tr" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching turkish dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>5F903FE4-EFEB-4D8B-86F4-1C82FF696049</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dsv</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "sv" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching swedish dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>7FBE0600-4057-422D-8741-1F18EC2D9F81</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=tr</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>8A761DD7-C76B-45F3-8669-868F958BA30E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dhi</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "hi" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching hindi dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>55976A0F-526E-4A04-B6A1-3AC87BA5075C</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=hi</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>CF74DDD3-99B4-48C8-921F-33A891E2228A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dth</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "th" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching thai dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>F53D60F8-2B5E-4FF5-A1E0-175FAF7FFEA3</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
@@ -521,6 +1743,93 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=th</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>21642F59-FA22-4B6A-812A-18215B265119</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=pl</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>43580A6A-B7F7-43A1-B78D-A8BB367AC1AE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dpl</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "pl" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching polish dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>7A2BA321-31E2-4FBD-A4B5-4FD2E20AF640</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
@@ -586,114 +1895,420 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dnl</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Running</string>
+				<key>script</key>
+				<string>python daum_dic.py "nl" "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Searching polish dic for {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>D95E7936-39C7-4E42-9CF3-F0BD54FE576E</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://dic.daum.net/search.do?q={query}&amp;dic=nl</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>E89931D1-2973-4280-A21C-1DFB6FC56325</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>Autocomplete Workflow for Daum Services</string>
 	<key>uidata</key>
 	<dict>
+		<key>00147648-6F33-4D90-A49C-9BDF240A1203</key>
+		<dict>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>130</integer>
+		</dict>
+		<key>01635823-AD06-4B6E-9246-928557F6530A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>130</integer>
+		</dict>
 		<key>095CDEC8-4FA0-45DD-BF37-7645C9AB11B6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>60</integer>
 			<key>ypos</key>
-			<real>130</real>
+			<integer>130</integer>
+		</dict>
+		<key>161A7C87-A094-42D6-B876-62029A1D2161</key>
+		<dict>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>370</integer>
+		</dict>
+		<key>1BFE9363-AEF0-4B40-8326-136DA42A3846</key>
+		<dict>
+			<key>xpos</key>
+			<integer>990</integer>
+			<key>ypos</key>
+			<integer>370</integer>
+		</dict>
+		<key>21642F59-FA22-4B6A-812A-18215B265119</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>610</integer>
+		</dict>
+		<key>33E09F9E-4407-4593-8817-96D9F8BCF20A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>990</integer>
+			<key>ypos</key>
+			<integer>10</integer>
 		</dict>
 		<key>3A223755-D2C0-4EC3-95C6-2F790E5A332E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<real>610</real>
+			<integer>610</integer>
 		</dict>
 		<key>3A478D6C-5D65-4057-AC9D-45ECD7FAD8FF</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>60</integer>
 			<key>ypos</key>
-			<real>490</real>
+			<integer>490</integer>
 		</dict>
 		<key>3AC365E3-AA3B-43A2-82F9-BCBE5ED7FDAB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<real>490</real>
+			<integer>490</integer>
+		</dict>
+		<key>3C263A56-1162-4067-9A7A-58B17FD6CF0A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>10</integer>
 		</dict>
 		<key>43002203-71F9-4EF9-BD2D-2E66B75E0CE4</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>60</integer>
 			<key>ypos</key>
-			<real>610</real>
+			<integer>610</integer>
+		</dict>
+		<key>43580A6A-B7F7-43A1-B78D-A8BB367AC1AE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>730</integer>
+		</dict>
+		<key>446D4A73-385E-420D-B83D-9F1159F860AE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>370</integer>
+		</dict>
+		<key>46D765B8-7E4B-424D-A8CD-1E98E14B2F26</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>51BBEFC7-8F1F-452D-91E0-933262473552</key>
+		<dict>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>130</integer>
+		</dict>
+		<key>55976A0F-526E-4A04-B6A1-3AC87BA5075C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>610</integer>
+		</dict>
+		<key>5F903FE4-EFEB-4D8B-86F4-1C82FF696049</key>
+		<dict>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>490</integer>
+		</dict>
+		<key>5F9E4EBF-4849-4CA9-A51A-10ED7BF832A8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>10</integer>
 		</dict>
 		<key>65F2147A-85B6-4934-BC20-54DF568827B4</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<real>130</real>
+			<integer>130</integer>
+		</dict>
+		<key>685CC6CD-C8ED-4F6A-AC02-52DC17D3F008</key>
+		<dict>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>250</integer>
 		</dict>
 		<key>6A3B17C0-3738-4E51-8284-7342821644C7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>60</integer>
 			<key>ypos</key>
-			<real>10</real>
+			<integer>10</integer>
 		</dict>
 		<key>6A932DFA-12A6-4540-81B0-AC5D8F22F5CF</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>60</integer>
 			<key>ypos</key>
-			<real>370</real>
+			<integer>370</integer>
 		</dict>
 		<key>6ADB0A5E-67AB-4BE3-B41D-BEDB3A092FA8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<real>370</real>
+			<integer>370</integer>
+		</dict>
+		<key>761FB074-2CF0-48D1-8A86-DABB4179566A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>990</integer>
+			<key>ypos</key>
+			<integer>130</integer>
 		</dict>
 		<key>7927FD2F-C10C-4F9D-8242-BFE34BF62E0D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>60</integer>
 			<key>ypos</key>
 			<integer>730</integer>
+		</dict>
+		<key>7A2BA321-31E2-4FBD-A4B5-4FD2E20AF640</key>
+		<dict>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>730</integer>
+		</dict>
+		<key>7BBBE8D8-3D0C-44A0-B057-86C819938F0A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>7D29196F-5769-4C50-902C-15F7A4B12CAB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
+		<key>7DCAEEF0-4EB9-4F0F-924B-92BC13D07E84</key>
+		<dict>
+			<key>xpos</key>
+			<integer>990</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
+		<key>7FBE0600-4057-422D-8741-1F18EC2D9F81</key>
+		<dict>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>490</integer>
+		</dict>
+		<key>8A761DD7-C76B-45F3-8669-868F958BA30E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>490</integer>
 		</dict>
 		<key>8D6A4A28-B13F-48AB-BCF0-116867E71D07</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<real>250</real>
+			<integer>250</integer>
+		</dict>
+		<key>98B5FE3C-57F5-47A5-9D46-9F48B516578E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1360</integer>
+			<key>ypos</key>
+			<integer>130</integer>
 		</dict>
 		<key>9F0D22FA-7D4C-4454-84AD-FDF086775BE5</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>60</integer>
 			<key>ypos</key>
-			<real>250</real>
+			<integer>250</integer>
+		</dict>
+		<key>A5DC93FF-9CFD-40C7-8BDD-2D723815540C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>370</integer>
+		</dict>
+		<key>AEBD599E-FAC5-4BE1-81DC-B018F8E00461</key>
+		<dict>
+			<key>xpos</key>
+			<integer>990</integer>
+			<key>ypos</key>
+			<integer>490</integer>
 		</dict>
 		<key>B06D0E0C-AD6A-4886-95F3-601A27087F41</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>260</integer>
 			<key>ypos</key>
 			<integer>730</integer>
 		</dict>
 		<key>BA17A710-3A5F-4A89-A967-01A524712257</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<real>10</real>
+			<integer>10</integer>
+		</dict>
+		<key>CA81F289-978A-47C6-B816-5CDC647A350F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
+		<key>CF74DDD3-99B4-48C8-921F-33A891E2228A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>990</integer>
+			<key>ypos</key>
+			<integer>610</integer>
+		</dict>
+		<key>D95E7936-39C7-4E42-9CF3-F0BD54FE576E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>730</integer>
+		</dict>
+		<key>E3A3818A-6CC2-4110-9DD5-5F10416C70D7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>130</integer>
+		</dict>
+		<key>E89931D1-2973-4280-A21C-1DFB6FC56325</key>
+		<dict>
+			<key>xpos</key>
+			<integer>990</integer>
+			<key>ypos</key>
+			<integer>730</integer>
+		</dict>
+		<key>EBF27845-35C0-4BB6-915E-DC06CA90DA2F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1360</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>ED479795-FDA5-4650-82B0-56C1797E2B63</key>
+		<dict>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
+		<key>F53D60F8-2B5E-4FF5-A1E0-175FAF7FFEA3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>410</integer>
+			<key>ypos</key>
+			<integer>610</integer>
+		</dict>
+		<key>FB5F152B-6423-45C7-BDD2-6167AA86804D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1360</integer>
+			<key>ypos</key>
+			<integer>250</integer>
 		</dict>
 	</dict>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>0.0.6</string>
+	<string>0.0.7</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
