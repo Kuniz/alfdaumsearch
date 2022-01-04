@@ -44,5 +44,5 @@ Alfred-workflow(https://github.com/deanishe/alfred-workflow)라는 모듈을 사
 
 LICENSE
 -------
- - GPLv2
+ - MIT License
  - except for alfred-workflow (by deanishe, https://github.com/deanishe/alfred-workflow, MIT License)
