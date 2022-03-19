@@ -1,4 +1,4 @@
-alfdaumsearch
+alfdaumsearch ![test workflow](https://github.com/kuniz/alfdaumsearch/actions/workflows/test-daum-ac.yml/badge.svg)
 =============
 
  자동완성 가능한 Daum 키워드 검색과 Daum 사전 검색을 가능하도록 하는 Alfred Workflow
