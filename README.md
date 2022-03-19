@@ -3,7 +3,16 @@ alfdaumsearch
 
  자동완성 가능한 Daum 키워드 검색과 Daum 사전 검색을 가능하도록 하는 Alfred Workflow
 
- 
+
+설치방법
+------
+
+- Workflow File 다운로드 및 실행
+  - https://github.com/Kuniz/alfdaumsearch/raw/master/alfdaumsearch.alfredworkflow
+
+- MacOS 12.3 이상의 경우
+  - python3 설치 : 예) `brew install python`
+
  
 사용법
 ----
@@ -38,7 +47,7 @@ alfdaumsearch
 
 외부 모듈 사용
 -----------
-Alfred-workflow(https://github.com/deanishe/alfred-workflow)라는 모듈을 사용하였습니다.
+Alfred-workflow(https://github.com/deanishe/alfred-workflow) 라는 모듈을 사용하였습니다.
 
 
 

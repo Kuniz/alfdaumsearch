@@ -31,7 +31,7 @@ on:
       - '**.py'
 
 jobs:
-  test-naver-ac-python2:
+  test-daum-ac-python2:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -41,7 +41,7 @@ jobs:
         with:
           python-version: '2.x'
       - run: (cd workflow; python -m unittest test_workflow.MyTestCase; )
-  test-naver-ac-python3:
+  test-daum-ac-python3:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
