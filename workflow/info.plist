@@ -378,7 +378,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "vi" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "vi" "{query}" || /usr/bin/python daum_dic.py "vi" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -427,7 +428,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "pt" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "pt" "{query}" || /usr/bin/python daum_dic.py "pt" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -476,7 +478,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "fa" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "fa" "{query}" || /usr/bin/python daum_dic.py "fa" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -544,7 +547,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_search.pyc "{query}"</string>
+				<string>/usr/bin/env python3 daum_search.py "{query}" || /usr/bin/python daum_search.py "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -688,7 +692,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "eng" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "eng" "{query}" || /usr/bin/python daum_dic.py "eng" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -756,7 +761,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "it" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "it" "{query}" || /usr/bin/python daum_dic.py "it" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -805,7 +811,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "cs" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "cs" "{query}" || /usr/bin/python daum_dic.py "cs" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -854,7 +861,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "sw" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "sw" "{query}" || /usr/bin/python daum_dic.py "sw" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -903,7 +911,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "jpn" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "jpn" "{query}" || /usr/bin/python daum_dic.py "jpn" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -952,7 +961,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "ro" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "ro" "{query}" || /usr/bin/python daum_dic.py "ro" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1020,7 +1030,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "hu" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "hu" "{query}" || /usr/bin/python daum_dic.py "hu" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1126,7 +1137,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "ru" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "ru" "{query}" || /usr/bin/python daum_dic.py "ru" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1194,7 +1206,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "ar" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "ar" "{query}" || /usr/bin/python daum_dic.py "ar" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1262,7 +1275,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "fr" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "fr" "{query}" || /usr/bin/python daum_dic.py "fr" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1330,7 +1344,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "kor" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "kor" "{query}" || /usr/bin/python daum_dic.py "kor" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1417,7 +1432,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "chn" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "chn" "{query}" || /usr/bin/python daum_dic.py "chn" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1466,7 +1482,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "tr" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "tr" "{query}" || /usr/bin/python daum_dic.py "tr" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1515,7 +1532,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "sv" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "sv" "{query}" || /usr/bin/python daum_dic.py "sv" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1602,7 +1620,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "hi" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "hi" "{query}" || /usr/bin/python daum_dic.py "hi" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1670,7 +1689,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "th" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "th" "{query}" || /usr/bin/python daum_dic.py "th" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1738,7 +1758,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "han" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "han" "{query}" || /usr/bin/python daum_dic.py "han" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1806,7 +1827,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "pl" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "pl" "{query}" || /usr/bin/python daum_dic.py "pl" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1855,7 +1877,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "id" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "id" "{query}" || /usr/bin/python daum_dic.py "id" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -1923,7 +1946,8 @@
 				<key>runningsubtext</key>
 				<string>Running</string>
 				<key>script</key>
-				<string>/usr/bin/python daum_dic.pyc "nl" "{query}"</string>
+				<string>/usr/bin/env python3 daum_dic.py "nl" "{query}" || /usr/bin/python daum_dic.py "nl" "{query}"
+</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>

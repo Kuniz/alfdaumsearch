@@ -1,3 +1,4 @@
+# coding=utf-8
 """
 Daum Search Workflow for Alfred 2
 Copyright (c) 2021 Jinuk Baek
@@ -21,50 +22,29 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-import sys
+import unittest
 
-if sys.version[0] == "2":
-    from workflow import web, Workflow
-else:
-    from workflow3 import web, Workflow
-
-def get_data(word):
-    url = 'https://suggest.search.daum.net/sushi/pc/get'
-
-    params = dict(mod='json',
-                  code='utf_in_out',
-                  q=word
-                  )
-
-    r = web.get(url, params)
-    r.raise_for_status()
-    return r.json()
+import daum_dic
+import daum_search
 
 
-def main(wf):
-    args = wf.args[0]
+class MyTestCase(unittest.TestCase):
+    def test_daum_search(self):
+        res = daum_search.get_data('한글')
 
-    wf.add_item(title='Searching Daum for \'%s\'' % args,
-                autocomplete=args,
-                arg=args,
-                valid=True)
+        self.assertTrue(len(res['subkeys']) > 0)
 
-    def wrapper():
-        return get_data(args)
+    def test_common_daum_dic(self):
+        langs = ['eng', 'jpn', 'kor', 'chn', 'han', 'id', 'vi', 'it', 'ru', 'fr', 'tr', 'th', 'pl', 'pt', 'cs',
+                 'hu', 'ar', 'hi', 'nl', 'fa', 'sw', 'ro']
 
-    res_json = wf.cached_data('dsearch_%s' % args, wrapper, max_age=30)
+        for lang in langs:
+            print('Test of %s\n' % lang)
+            res = daum_dic.get_data(lang, 'ㄱ')
+            res2 = daum_dic.get_data(lang, 'a')
 
-    for txt in res_json['subkeys']:
-        if len(txt) > 0:
-            wf.add_item(
-                title='Searching Daum for \'%s\'' % txt,
-                autocomplete=txt,
-                arg=txt,
-                valid=True)
-
-    wf.send_feedback()
+            self.assertTrue(len(res['items']) > 0 or len(res2['items']))
 
 
 if __name__ == '__main__':
-    wf = Workflow()
-    sys.exit(wf.run(main))
+    unittest.main()
