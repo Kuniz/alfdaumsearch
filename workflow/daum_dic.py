@@ -33,12 +33,9 @@ else:
 # eng : English
 
 def get_data(dic_req, word):
-    url = 'http://suggest.dic.daum.net/dic_all_ctsuggest'
+    url = 'https://suggest.dic.daum.net/language/v1/search.json'
 
-    params = dict(mod='json',
-                  code='utf_in_out',
-                  enc='utf',
-                  cate=dic_req,
+    params = dict(cate=dic_req,
                   q=word
                   )
 
@@ -61,9 +58,9 @@ def main(wf):
 
     res_json = wf.cached_data('d%s_%s' % (dic_req, args), wrapper, max_age=30)
 
-    for txt in res_json['items']:
-        if len(txt) > 0:
-            stxt = txt.split('|')
+    for txt in res_json['items'][dic_req]:
+        if len(txt['item']) > 0:
+            stxt = txt['item'].split('|')
             wf.add_item(
                 title='%s  %s' % (stxt[1], stxt[2]),
                 subtitle='Searching Daum%s for \'%s\'' % (dic_req, stxt[1]),
