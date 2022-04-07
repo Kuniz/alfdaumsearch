@@ -51,6 +51,9 @@ def main(wf):
     wf.add_item(title='Searching Daum%s for \'%s\'' % (dic_req, args),
                 autocomplete=args,
                 arg=args,
+                copytext=args,
+                largetext=args,
+                quicklookurl='https://dic.daum.net/search.do?dic=%s&q=%s' % (dic_req, args),
                 valid=True)
 
     def wrapper():
@@ -66,6 +69,9 @@ def main(wf):
                 subtitle='Searching Daum%s for \'%s\'' % (dic_req, stxt[1]),
                 autocomplete=stxt[1],
                 arg=stxt[1],
+                copytext=stxt[2],
+                largetext=stxt[1],
+                quicklookurl='https://dic.daum.net/search.do?dic=%s&q=%s' % (dic_req, stxt[1]),
                 valid=True)
 
     wf.send_feedback()

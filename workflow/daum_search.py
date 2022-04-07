@@ -47,6 +47,9 @@ def main(wf):
     wf.add_item(title='Searching Daum for \'%s\'' % args,
                 autocomplete=args,
                 arg=args,
+                copytext=args,
+                largetext=args,
+                quicklookurl='https://search.daum.net/search?q=%s' % args,
                 valid=True)
 
     def wrapper():
@@ -60,6 +63,9 @@ def main(wf):
                 title='Searching Daum for \'%s\'' % txt,
                 autocomplete=txt,
                 arg=txt,
+                copytext=txt,
+                largetext=txt,
+                quicklookurl='https://search.daum.net/search?q=%s' % txt,
                 valid=True)
 
     wf.send_feedback()

@@ -42,6 +42,13 @@ alfdaumsearch ![test workflow](https://github.com/kuniz/alfdaumsearch/actions/wo
  * `dsw ...` : 스와힐리어사전 검색
  * `dro ...` : 루마니아어사전 검색
 
+
+단축키 관련 기능 추가
+
+* Cmd + C : 상세 내용이 클립보드에 복사
+* Cmd + N, C : 자동완성 텍스트가 클립보드로 복사
+* Cmd + Y 혹은 Shift : 검색결과 미리 보기 웹브라우져 출력
+
 적용되어 있는 것 이외에 기능 추가를 원하시면 요청바랍니다.
 
 

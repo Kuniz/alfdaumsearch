@@ -339,7 +339,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://search.daum.net/search?q={query}</string>
+				<string>https://search.daum.net/search?q={query}</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -508,7 +508,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=fa</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=fa</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -577,7 +577,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=pt</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=pt</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -596,7 +596,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=vi</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=vi</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -615,7 +615,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=en</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=en</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -634,7 +634,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=it</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=it</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -653,7 +653,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=cs</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=cs</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -722,7 +722,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=sw</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=sw</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -991,7 +991,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=fr</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=fr</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1060,7 +1060,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=ru</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=ru</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1079,7 +1079,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=ro</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=ro</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1098,7 +1098,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=jp</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=jp</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1167,7 +1167,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=ar</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=ar</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1236,7 +1236,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=kor</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=kor</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1305,7 +1305,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=fr</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=fr</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1374,7 +1374,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=ch</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=ch</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1393,7 +1393,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=sv</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=sv</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1562,7 +1562,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=tr</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=tr</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1581,7 +1581,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=th</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=th</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1650,7 +1650,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=hi</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=hi</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1719,7 +1719,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=hanja</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=hanja</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1788,7 +1788,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=pl</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=pl</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1907,7 +1907,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=id</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=id</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -1976,7 +1976,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>http://dic.daum.net/search.do?q={query}&amp;dic=nl</string>
+				<string>https://dic.daum.net/search.do?q={query}&amp;dic=nl</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -2332,7 +2332,7 @@
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>0.2.1</string>
+	<string>0.2.2</string>
 	<key>webaddress</key>
 	<string>https://www.jinukbaek.com/blog/ko/archives/511</string>
 </dict>
