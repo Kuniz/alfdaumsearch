@@ -7,11 +7,12 @@ alfdaumsearch ![test workflow](https://github.com/kuniz/alfdaumsearch/actions/wo
 설치방법
 ------
 
-- Workflow File 다운로드 및 실행
-  - https://github.com/Kuniz/alfdaumsearch/raw/master/alfdaumsearch.alfredworkflow
+- [releases](../../releases/latest) 페이지의 `alfdaumsearch.alfredworkflow`를 다운로드 받아서 실행한다.
 
 - MacOS 12.3 이상의 경우
-  - python3 설치 : 예) `brew install python`
+  - python3 설치
+    - `brew install python`
+    - `xcode-select --install`
 
  
 사용법
