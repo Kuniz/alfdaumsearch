@@ -23,10 +23,7 @@ SOFTWARE.
 
 import sys
 
-if sys.version[0] == "2":
-    from workflow import web, Workflow
-else:
-    from workflow3 import web, Workflow
+from workflow import web, Workflow
 
 
 # lan : all
@@ -48,13 +45,14 @@ def main(wf):
     dic_req = wf.args[0]
     args = wf.args[1]
 
-    wf.add_item(title='Searching Daum%s for \'%s\'' % (dic_req, args),
+    it = wf.add_item(title='Searching Daum%s for \'%s\'' % (dic_req, args),
                 autocomplete=args,
                 arg=args,
                 copytext=args,
                 largetext=args,
                 quicklookurl='https://dic.daum.net/search.do?dic=%s&q=%s' % (dic_req, args),
                 valid=True)
+    it.setvar('lang', dic_req)
 
     def wrapper():
         return get_data(dic_req, args)
@@ -64,7 +62,7 @@ def main(wf):
     for txt in res_json['items'][dic_req]:
         if len(txt['item']) > 0:
             stxt = txt['item'].split('|')
-            wf.add_item(
+            it = wf.add_item(
                 title='%s  %s' % (stxt[1], stxt[2]),
                 subtitle='Searching Daum%s for \'%s\'' % (dic_req, stxt[1]),
                 autocomplete=stxt[1],
@@ -73,6 +71,7 @@ def main(wf):
                 largetext=stxt[1],
                 quicklookurl='https://dic.daum.net/search.do?dic=%s&q=%s' % (dic_req, stxt[1]),
                 valid=True)
+            it.setvar('lang', dic_req)
 
     wf.send_feedback()
 

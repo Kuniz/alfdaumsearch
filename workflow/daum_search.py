@@ -23,10 +23,7 @@ SOFTWARE.
 
 import sys
 
-if sys.version[0] == "2":
-    from workflow import web, Workflow
-else:
-    from workflow3 import web, Workflow
+from workflow import web, Workflow
 
 def get_data(word):
     url = 'https://suggest.search.daum.net/sushi/pc/get'

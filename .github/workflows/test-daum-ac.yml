@@ -33,20 +33,12 @@ on:
       - '**.py'
 
 jobs:
-  test-daum-ac-python2:
+  test-daum-ac-python3:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
           submodules: 'true'
-      - uses: actions/setup-python@v3
-        with:
-          python-version: '2.x'
-      - run: (cd workflow; python -m unittest test_workflow.MyTestCase; )
-  test-daum-ac-python3:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
       - uses: actions/setup-python@v3
         with:
           python-version: '3.x'
