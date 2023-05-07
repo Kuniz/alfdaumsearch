@@ -41,5 +41,5 @@ jobs:
           submodules: 'true'
       - uses: actions/setup-python@v3
         with:
-          python-version: '3.x'
+          python-version: '3.9'
       - run: (cd workflow; python -m unittest test_workflow.MyTestCase; )
