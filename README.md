@@ -1,7 +1,7 @@
 alfdaumsearch  ![Test](../../actions/workflows/test-daum-ac.yml/badge.svg) ![Release](../../actions/workflows/release.yml/badge.svg)
 =============
 
- 자동완성 가능한 Daum 키워드 검색과 Daum 사전 검색을 가능하도록 하는 Alfred Workflow
+ 자동완성 가능한 Daum 키워드 검색과 Daum 사전(카카오 사전) 검색을 가능하도록 하는 Alfred Workflow
 
 
 설치방법
@@ -13,7 +13,8 @@ alfdaumsearch  ![Test](../../actions/workflows/test-daum-ac.yml/badge.svg) ![Rel
   - python3 설치
     - `brew install python`
     - `xcode-select --install`
-
+- Alfred 4.0 이상 필요
+- Python 3 이상 필요
  
 사용법
 ----

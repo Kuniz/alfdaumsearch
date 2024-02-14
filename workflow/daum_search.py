@@ -26,7 +26,7 @@ import sys
 from workflow import web, Workflow
 
 def get_data(word):
-    url = 'https://suggest.search.daum.net/sushi/pc/get'
+    url = 'https://vsuggest.search.daum.net/sushi/pc/get'
 
     params = dict(mod='json',
                   code='utf_in_out',
